@@ -1,0 +1,31 @@
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0  # For reading Excel files
+
+# Vietnamese NLP
+pyvi>=0.1.1  # Word segmentation
+underthesea>=6.7.0  # Vietnamese NLP toolkit
+vncorenlp>=1.0.3  # Optional: VnCoreNLP wrapper
+
+# Text processing
+emoji>=2.8.0  # Emoji handling
+regex>=2023.0.0  # Advanced regex
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Deep Learning (PhoBERT fine-tuning)
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.14.0
+scikit-learn>=1.3.0
+
+# Training utilities
+accelerate>=0.20.0  # Training optimization
+tensorboard>=2.13.0  # Logging
+wandb>=0.15.0  # Optional: experiment tracking
+
+# Progress bars and utilities
+tqdm>=4.65.0

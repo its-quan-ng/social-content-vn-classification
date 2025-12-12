@@ -1,0 +1,17 @@
+D:\Workspace\PPNCKH-project\social-content-vn-classification\vncorenlp\VnCoreNLP-master\src\main\java\vn\corenlp\wordsegmenter\Node.java
+D:\Workspace\PPNCKH-project\social-content-vn-classification\vncorenlp\VnCoreNLP-master\src\main\java\vn\pipeline\LexicalInitializer.java
+D:\Workspace\PPNCKH-project\social-content-vn-classification\vncorenlp\VnCoreNLP-master\src\main\java\vn\corenlp\tokenizer\StringUtils.java
+D:\Workspace\PPNCKH-project\social-content-vn-classification\vncorenlp\VnCoreNLP-master\src\main\java\vn\corenlp\wordsegmenter\WordTag.java
+D:\Workspace\PPNCKH-project\social-content-vn-classification\vncorenlp\VnCoreNLP-master\src\main\java\vn\corenlp\wordsegmenter\FWObject.java
+D:\Workspace\PPNCKH-project\social-content-vn-classification\vncorenlp\VnCoreNLP-master\src\main\java\vn\pipeline\Annotation.java
+D:\Workspace\PPNCKH-project\social-content-vn-classification\vncorenlp\VnCoreNLP-master\src\main\java\vn\pipeline\VnCoreNLP.java
+D:\Workspace\PPNCKH-project\social-content-vn-classification\vncorenlp\VnCoreNLP-master\src\main\java\vn\corenlp\ner\NerRecognizer.java
+D:\Workspace\PPNCKH-project\social-content-vn-classification\vncorenlp\VnCoreNLP-master\src\main\java\vn\corenlp\tokenizer\Tokenizer.java
+D:\Workspace\PPNCKH-project\social-content-vn-classification\vncorenlp\VnCoreNLP-master\src\main\java\vn\pipeline\Utils.java
+D:\Workspace\PPNCKH-project\social-content-vn-classification\vncorenlp\VnCoreNLP-master\src\main\java\vn\pipeline\Word.java
+D:\Workspace\PPNCKH-project\social-content-vn-classification\vncorenlp\VnCoreNLP-master\src\main\java\vn\corenlp\wordsegmenter\Utils.java
+D:\Workspace\PPNCKH-project\social-content-vn-classification\vncorenlp\VnCoreNLP-master\src\main\java\vn\corenlp\wordsegmenter\Vocabulary.java
+D:\Workspace\PPNCKH-project\social-content-vn-classification\vncorenlp\VnCoreNLP-master\src\main\java\vn\corenlp\wordsegmenter\WordSegmenter.java
+D:\Workspace\PPNCKH-project\social-content-vn-classification\vncorenlp\VnCoreNLP-master\src\main\java\vn\corenlp\parser\DependencyParser.java
+D:\Workspace\PPNCKH-project\social-content-vn-classification\vncorenlp\VnCoreNLP-master\src\main\java\vn\corenlp\postagger\PosTagger.java
+D:\Workspace\PPNCKH-project\social-content-vn-classification\vncorenlp\VnCoreNLP-master\src\main\java\vn\pipeline\Sentence.java

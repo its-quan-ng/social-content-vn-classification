@@ -1,0 +1,38 @@
+Preprocessing Statistics
+============================================================
+Date: 2025-10-31 02:56:12
+Input file: data\raw\train_merged.csv
+Output file: data\processed\train.csv
+
+Original data:
+  Total rows: 11472
+
+Processed data:
+  Total rows: 11334
+  Filtered: 138 rows
+  Retention rate: 98.80%
+
+Label distribution:
+  Enjoyment: 3198 (28.2%)
+  Other: 2193 (19.3%)
+  Sadness: 1981 (17.5%)
+  Disgust: 1735 (15.3%)
+  Anger: 1171 (10.3%)
+  Fear: 544 (4.8%)
+  Surprise: 511 (4.5%)
+
+Word count statistics:
+  Mean: 12.18
+  Median: 10
+  Std: 7.74
+  Min: 3
+  Max: 150
+
+Pipeline configuration:
+  word_segmentation: True
+  segmentation_method: pyvi
+  min_word_count: 3
+  lowercase: True
+  slang_dict_size: 213
+  emoji_dict_size: 181
+  emoticon_dict_size: 52

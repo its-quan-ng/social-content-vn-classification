@@ -1,0 +1,789 @@
+MISSING TOKENS ANALYSIS
+================================================================================
+
+MISSING EMOJIS
+--------------------------------------------------------------------------------
+  1. ️  (U+FE0F) - 161 times
+  2. ❤  (U+2764) - 160 times
+  3. 🥲  (U+1F972) - 88 times
+  4. 🥹  (U+1F979) - 74 times
+  5. 😑  (U+1F611) - 58 times
+  6. 🏻  (U+1F3FB) - 44 times
+  7. 🙄  (U+1F644) - 40 times
+  8. 😒  (U+1F612) - 37 times
+  9. 🤡  (U+1F921) - 26 times
+ 10. ☺  (U+263A) - 25 times
+ 11. 🤔  (U+1F914) - 23 times
+ 12. 😏  (U+1F60F) - 23 times
+ 13. 😎  (U+1F60E) - 16 times
+ 14. ♀  (U+2640) - 14 times
+ 15. 😐  (U+1F610) - 14 times
+ 16. 🤤  (U+1F924) - 13 times
+ 17. 🥵  (U+1F975) - 11 times
+ 18. 😬  (U+1F62C) - 10 times
+ 19. 🥶  (U+1F976) - 9 times
+ 20. 😤  (U+1F624) - 9 times
+ 21. 🐧  (U+1F427) - 8 times
+ 22. ☹  (U+2639) - 8 times
+ 23. 🐶  (U+1F436) - 7 times
+ 24. 🧐  (U+1F9D0) - 7 times
+ 25. 🇻  (U+1F1FB) - 7 times
+ 26. 🇳  (U+1F1F3) - 7 times
+ 27. 😶  (U+1F636) - 6 times
+ 28. 🗿  (U+1F5FF) - 6 times
+ 29. 🥴  (U+1F974) - 6 times
+ 30. 😧  (U+1F627) - 6 times
+ 31. ☘  (U+2618) - 6 times
+ 32. 😕  (U+1F615) - 5 times
+ 33. 😵  (U+1F635) - 5 times
+ 34. 🤨  (U+1F928) - 4 times
+ 35. 🥀  (U+1F940) - 4 times
+ 36. 🗣  (U+1F5E3) - 4 times
+ 37. 🤦  (U+1F926) - 4 times
+ 38. 🚩  (U+1F6A9) - 4 times
+ 39. 🙀  (U+1F640) - 4 times
+ 40. 🌸  (U+1F338) - 4 times
+ 41. 🖕  (U+1F595) - 4 times
+ 42. 😈  (U+1F608) - 3 times
+ 43. ✅  (U+2705) - 3 times
+ 44. 🌝  (U+1F31D) - 3 times
+ 45. 😻  (U+1F63B) - 3 times
+ 46. 💋  (U+1F48B) - 3 times
+ 47. 💨  (U+1F4A8) - 3 times
+ 48. 🍃  (U+1F343) - 3 times
+ 49. 🙎  (U+1F64E) - 3 times
+ 50. 💓  (U+1F493) - 3 times
+ 51. 🐽  (U+1F43D) - 3 times
+ 52. 🐷  (U+1F437) - 3 times
+ 53. 🧎  (U+1F9CE) - 3 times
+ 54. 🌚  (U+1F31A) - 3 times
+ 55. ✌  (U+270C) - 3 times
+ 56. 🏼  (U+1F3FC) - 3 times
+ 57. 🕸  (U+1F578) - 3 times
+ 58. ☝  (U+261D) - 3 times
+ 59. ⚓  (U+2693) - 3 times
+ 60. ❣  (U+2763) - 3 times
+ 61. 😸  (U+1F638) - 2 times
+ 62. 🐱  (U+1F431) - 2 times
+ 63. ☁  (U+2601) - 2 times
+ 64. 👀  (U+1F440) - 2 times
+ 65. 🐕  (U+1F415) - 2 times
+ 66. ♂  (U+2642) - 2 times
+ 67. 🤍  (U+1F90D) - 2 times
+ 68. 🧚  (U+1F9DA) - 2 times
+ 69. ￼  (U+FFFC) - 2 times
+ 70. 💡  (U+1F4A1) - 2 times
+ 71. 🤷  (U+1F937) - 2 times
+ 72. 🍊  (U+1F34A) - 2 times
+ 73. 💐  (U+1F490) - 2 times
+ 74. 👑  (U+1F451) - 2 times
+ 75. 🎃  (U+1F383) - 2 times
+ 76. 😦  (U+1F626) - 2 times
+ 77. 🤓  (U+1F913) - 2 times
+ 78. 🌧  (U+1F327) - 2 times
+ 79. 🥖  (U+1F956) - 1 times
+ 80. 🧟  (U+1F9DF) - 1 times
+ 81. 🌳  (U+1F333) - 1 times
+ 82. 🍗  (U+1F357) - 1 times
+ 83. 👩  (U+1F469) - 1 times
+ 84. ⚕  (U+2695) - 1 times
+ 85. 🧠  (U+1F9E0) - 1 times
+ 86. 🎂  (U+1F382) - 1 times
+ 87. 🐐  (U+1F410) - 1 times
+ 88. 🌻  (U+1F33B) - 1 times
+ 89. 📿  (U+1F4FF) - 1 times
+ 90. ⚔  (U+2694) - 1 times
+ 91. 🚘  (U+1F698) - 1 times
+ 92. 🚨  (U+1F6A8) - 1 times
+ 93. 🥭  (U+1F96D) - 1 times
+ 94. 🍍  (U+1F34D) - 1 times
+ 95. 🍌  (U+1F34C) - 1 times
+ 96. 🍑  (U+1F351) - 1 times
+ 97. 🍈  (U+1F348) - 1 times
+ 98. 🍏  (U+1F34F) - 1 times
+ 99. 😹  (U+1F639) - 1 times
+100. 🐸  (U+1F438) - 1 times
+101. 🍻  (U+1F37B) - 1 times
+102. 🤫  (U+1F92B) - 1 times
+103. 🐴  (U+1F434) - 1 times
+104. 🏇  (U+1F3C7) - 1 times
+105. 🍀  (U+1F340) - 1 times
+106. ☻  (U+263B) - 1 times
+107. ❗  (U+2757) - 1 times
+108. 🌠  (U+1F320) - 1 times
+109. 🎀  (U+1F380) - 1 times
+110. 💁  (U+1F481) - 1 times
+111. 😴  (U+1F634) - 1 times
+112. 🦐  (U+1F990) - 1 times
+113. 🎨  (U+1F3A8) - 1 times
+114. 🙋  (U+1F64B) - 1 times
+115. 🚬  (U+1F6AC) - 1 times
+116. 💃  (U+1F483) - 1 times
+117. 🤠  (U+1F920) - 1 times
+118. 🥸  (U+1F978) - 1 times
+119. 🌹  (U+1F339) - 1 times
+120. 🐦  (U+1F426) - 1 times
+121. 👴  (U+1F474) - 1 times
+122. 👵  (U+1F475) - 1 times
+123. 🛌  (U+1F6CC) - 1 times
+124. 🐢  (U+1F422) - 1 times
+125. 💸  (U+1F4B8) - 1 times
+126. 📍  (U+1F4CD) - 1 times
+127. 🌺  (U+1F33A) - 1 times
+128. 🌿  (U+1F33F) - 1 times
+129. 🏾  (U+1F3FE) - 1 times
+130. 💆  (U+1F486) - 1 times
+131. 🐔  (U+1F414) - 1 times
+132. ❓  (U+2753) - 1 times
+133. ❌  (U+274C) - 1 times
+134. 🍄  (U+1F344) - 1 times
+135. 🛸  (U+1F6F8) - 1 times
+136. 👯  (U+1F46F) - 1 times
+137. 😾  (U+1F63E) - 1 times
+138. ✂  (U+2702) - 1 times
+139. 🐩  (U+1F429) - 1 times
+140. 🐈  (U+1F408) - 1 times
+141. 😽  (U+1F63D) - 1 times
+142. 🦦  (U+1F9A6) - 1 times
+143. 🏀  (U+1F3C0) - 1 times
+
+
+POTENTIAL MISSING SLANG
+--------------------------------------------------------------------------------
+  1. 'là'  - 1,969 times
+  2. 'mà'  - 1,831 times
+  3. 'con'  - 1,289 times
+  4. 'quá'  - 1,168 times
+  5. 'nó'  - 1,133 times
+  6. 'tao'  - 1,112 times
+  7. 'cái'  - 1,048 times
+  8. 'cũng'  - 889 times
+  9. 'gì'  - 854 times
+ 10. 'lại'  - 747 times
+ 11. 'thấy'  - 746 times
+ 12. 'còn'  - 731 times
+ 13. 'ăn'  - 672 times
+ 14. 'ra'  - 651 times
+ 15. 'luôn'  - 648 times
+ 16. 'vậy'  - 645 times
+ 17. 'phải'  - 633 times
+ 18. 'thật'  - 607 times
+ 19. 'per'  - 548 times
+ 20. 'mấy'  - 537 times
+ 21. 'và'  - 535 times
+ 22. 'mẹ'  - 531 times
+ 23. 'để'  - 530 times
+ 24. 'biết'  - 515 times
+ 25. 'xem'  - 507 times
+ 26. 'đó'  - 498 times
+ 27. 'hay'  - 489 times
+ 28. 'nói'  - 488 times
+ 29. 'nhìn'  - 487 times
+ 30. 'ai'  - 486 times
+ 31. 'cả'  - 479 times
+ 32. 'bị'  - 473 times
+ 33. '1'  - 472 times
+ 34. 'yêu'  - 461 times
+ 35. 'thôi'  - 451 times
+ 36. 'chứ'  - 436 times
+ 37. 'mày'  - 436 times
+ 38. 'mới'  - 424 times
+ 39. 'giờ'  - 420 times
+ 40. 'đâu'  - 402 times
+ 41. 'chỉ'  - 393 times
+ 42. 'nữa'  - 378 times
+ 43. 'ngày'  - 370 times
+ 44. 'vãi'  - 358 times
+ 45. 'hết'  - 346 times
+ 46. 'vì'  - 338 times
+ 47. 'sợ'  - 338 times
+ 48. 'lắm'  - 336 times
+ 49. 'vẫn'  - 332 times
+ 50. 'về'  - 330 times
+ 51. 'ở'  - 330 times
+ 52. 'ta'  - 327 times
+ 53. 'hơn'  - 321 times
+ 54. 'đúng'  - 312 times
+ 55. 'nên'  - 309 times
+ 56. 'vào'  - 305 times
+ 57. 'lên'  - 302 times
+ 58. 'cảm'  - 301 times
+ 59. 'ông'  - 301 times
+ 60. 'chưa'  - 300 times
+ 61. 'bà'  - 293 times
+ 62. 'cười'  - 288 times
+ 63. 'sự'  - 286 times
+ 64. 'nghe'  - 283 times
+ 65. 'học'  - 279 times
+ 66. 'lần'  - 277 times
+ 67. 'sẽ'  - 273 times
+ 68. 'thể'  - 268 times
+ 69. 'mặt'  - 268 times
+ 70. 'xong'  - 268 times
+ 71. 'công'  - 267 times
+ 72. 'đứa'  - 267 times
+ 73. 'đéo'  - 261 times
+ 74. 'đầu'  - 257 times
+ 75. 'năm'  - 256 times
+ 76. 'trời'  - 254 times
+ 77. 'các'  - 253 times
+ 78. 'phim'  - 253 times
+ 79. 'đây'  - 250 times
+ 80. 'nhất'  - 247 times
+ 81. 'đời'  - 244 times
+ 82. 'bao'  - 242 times
+ 83. 'tình'  - 241 times
+ 84. 'mất'  - 240 times
+ 85. 'ý'  - 236 times
+ 86. 'từ'  - 236 times
+ 87. 'tiền'  - 235 times
+ 88. 'chó'  - 235 times
+ 89. 'đáng'  - 231 times
+ 90. 'bé'  - 230 times
+ 91. 'đẹp'  - 228 times
+ 92. 'ác'  - 228 times
+ 93. 'lòng'  - 226 times
+ 94. 'chắc'  - 226 times
+ 95. 'buồn'  - 223 times
+ 96. 'sống'  - 222 times
+ 97. 'cứ'  - 220 times
+ 98. 'lúc'  - 219 times
+ 99. 'đấy'  - 219 times
+100. 'nước'  - 218 times
+101. 'coi'  - 218 times
+102. 'chết'  - 217 times
+103. 'tội'  - 217 times
+104. 'chơi'  - 216 times
+105. 'nhỉ'  - 210 times
+106. 'hình'  - 204 times
+107. 'ấy'  - 204 times
+108. 'vui'  - 201 times
+109. 'đang'  - 199 times
+110. 'kiểu'  - 199 times
+111. 'nhớ'  - 198 times
+112. 'nghĩ'  - 197 times
+113. 'vừa'  - 195 times
+114. 'á'  - 190 times
+115. 'vô'  - 188 times
+116. 'ghê'  - 188 times
+117. 'tới'  - 187 times
+118. 'sau'  - 187 times
+119. '2'  - 185 times
+120. 'nhau'  - 184 times
+121. 'tay'  - 184 times
+122. 'bố'  - 181 times
+123. 'tự'  - 179 times
+124. 'gặp'  - 179 times
+125. 'qua'  - 179 times
+126. 'tin'  - 176 times
+127. 'đau'  - 176 times
+128. 'đừng'  - 175 times
+129. 'gái'  - 173 times
+130. 'tâm'  - 173 times
+131. 'động'  - 172 times
+132. 'khác'  - 171 times
+133. 'hiểu'  - 171 times
+134. 'cần'  - 168 times
+135. 'thân'  - 166 times
+136. 'mắt'  - 165 times
+137. 'câu'  - 164 times
+138. 'nhân'  - 162 times
+139. 'khóc'  - 161 times
+140. 'dễ'  - 159 times
+141. 'vợ'  - 153 times
+142. 'bình'  - 152 times
+143. 'nhỏ'  - 152 times
+144. '3'  - 150 times
+145. 'sinh'  - 150 times
+146. 'nay'  - 150 times
+147. 'quan'  - 149 times
+148. 'bài'  - 149 times
+149. 'cô'  - 149 times
+150. 'ảnh'  - 147 times
+151. 'kinh'  - 146 times
+152. 'họ'  - 145 times
+153. 'nhận'  - 145 times
+154. 'cùng'  - 145 times
+155. 'bọn'  - 143 times
+156. 'nuôi'  - 143 times
+157. 'nam'  - 140 times
+158. 'đồng'  - 138 times
+159. 'bảo'  - 138 times
+160. 'tại'  - 136 times
+161. 'xin'  - 136 times
+162. 'xe'  - 136 times
+163. 'kết'  - 135 times
+164. 'việc'  - 135 times
+165. 'khổ'  - 135 times
+166. 'đọc'  - 135 times
+167. 'hồi'  - 135 times
+168. 'má'  - 134 times
+169. 'trai'  - 133 times
+170. 'thứ'  - 133 times
+171. 'lấy'  - 132 times
+172. 'thời'  - 131 times
+173. 'theo'  - 130 times
+174. 'bác'  - 128 times
+175. 'mỗi'  - 126 times
+176. 'toàn'  - 126 times
+177. 'quả'  - 125 times
+178. 'an'  - 124 times
+179. 'bắt'  - 123 times
+180. 'hả'  - 122 times
+181. 'chịu'  - 122 times
+182. 'bằng'  - 122 times
+183. 'ngon'  - 121 times
+184. 'ngu'  - 121 times
+185. 'nổi'  - 120 times
+186. 'tim'  - 120 times
+187. 'khó'  - 120 times
+188. 'trên'  - 120 times
+189. 'cuối'  - 119 times
+190. 'chạy'  - 119 times
+191. 'loại'  - 118 times
+192. 'chả'  - 117 times
+193. 'mong'  - 117 times
+194. 'thịt'  - 117 times
+195. 'kia'  - 116 times
+196. 'tuổi'  - 116 times
+197. 'tính'  - 113 times
+198. 'quay'  - 111 times
+199. 'gia'  - 110 times
+200. 'trẻ'  - 110 times
+201. 'cách'  - 110 times
+202. 'bộ'  - 110 times
+203. 'nếu'  - 109 times
+204. 'hỏi'  - 108 times
+205. 'mọi'  - 108 times
+206. 'cảnh'  - 107 times
+207. 'hôm'  - 106 times
+208. 'đồ'  - 105 times
+209. 'bây'  - 105 times
+210. 'cuộc'  - 105 times
+211. 'từng'  - 105 times
+212. 'việt'  - 104 times
+213. 'nè'  - 102 times
+214. 'ngủ'  - 102 times
+215. 'bất'  - 102 times
+216. 'hành'  - 101 times
+217. 'quỷ'  - 100 times
+218. 'dume'  - 99 times
+219. 'chủ'  - 99 times
+220. 'đẻ'  - 99 times
+221. 'cha'  - 99 times
+222. 'bán'  - 98 times
+223. 'hạnh'  - 98 times
+224. 'ng'  - 97 times
+225. 'hàng'  - 96 times
+226. 'vụ'  - 96 times
+227. 'đánh'  - 96 times
+228. 'bản'  - 95 times
+229. 'lớn'  - 95 times
+230. 'gà'  - 94 times
+231. 'nữ'  - 94 times
+232. 'cơ'  - 92 times
+233. 'phát'  - 92 times
+234. 'cao'  - 92 times
+235. 'xưa'  - 92 times
+236. 'dân'  - 90 times
+237. 'chân'  - 89 times
+238. 'định'  - 89 times
+239. 'ba'  - 89 times
+240. 'lý'  - 88 times
+241. 'ngồi'  - 88 times
+242. 'thực'  - 87 times
+243. 'phúc'  - 87 times
+244. 'sáng'  - 86 times
+245. 'xúc'  - 86 times
+246. 'tử'  - 86 times
+247. 'phụ'  - 86 times
+248. 'lời'  - 85 times
+249. 'chửi'  - 85 times
+250. 'lâu'  - 85 times
+251. 'giới'  - 84 times
+252. 'hội'  - 84 times
+253. 'đủ'  - 84 times
+254. 'dám'  - 83 times
+255. 'sai'  - 82 times
+256. 'điều'  - 82 times
+257. 'thức'  - 82 times
+258. 'đàn'  - 82 times
+259. 'ngay'  - 82 times
+260. 'bên'  - 81 times
+261. 'thêm'  - 81 times
+262. 'gọi'  - 81 times
+263. 'mèo'  - 81 times
+264. 'cổ'  - 78 times
+265. 'tìm'  - 77 times
+266. 'giỏi'  - 77 times
+267. 'giết'  - 77 times
+268. 'tù'  - 77 times
+269. 'chúc'  - 77 times
+270. 'hai'  - 77 times
+271. 'vật'  - 76 times
+272. 'lũ'  - 76 times
+273. 'mê'  - 76 times
+274. 'vời'  - 75 times
+275. 'lực'  - 75 times
+276. 'xinh'  - 75 times
+277. 'y'  - 75 times
+278. 'chỗ'  - 74 times
+279. 'cố'  - 74 times
+280. 'chia'  - 73 times
+281. 'cháu'  - 73 times
+282. 'chú'  - 73 times
+283. 'tức'  - 73 times
+284. 'dữ'  - 73 times
+285. 'tài'  - 73 times
+286. 'mạnh'  - 72 times
+287. 'cơm'  - 72 times
+288. 'dạy'  - 72 times
+289. 'hải'  - 72 times
+290. 'đình'  - 71 times
+291. 'ơn'  - 71 times
+292. 'giá'  - 71 times
+293. 'ôi'  - 70 times
+294. 'giác'  - 70 times
+295. 'huhu'  - 70 times
+296. 'lớp'  - 70 times
+297. 'hơi'  - 70 times
+298. 'đều'  - 70 times
+299. 'nạn'  - 70 times
+300. 'nỗi'  - 70 times
+301. 'mãi'  - 69 times
+302. 'ê'  - 69 times
+303. 'điện'  - 69 times
+304. 'độc'  - 69 times
+305. 'mang'  - 69 times
+306. 'báo'  - 67 times
+307. 'đất'  - 67 times
+308. 'mai'  - 67 times
+309. 'món'  - 67 times
+310. 'hợp'  - 67 times
+311. 'nội'  - 67 times
+312. 'thần'  - 67 times
+313. 'hiện'  - 67 times
+314. 'đoạn'  - 66 times
+315. 'cậu'  - 66 times
+316. 'càng'  - 66 times
+317. 'diễn'  - 66 times
+318. 'phạt'  - 66 times
+319. 'haha'  - 65 times
+320. 'tư'  - 65 times
+321. 'cụ'  - 65 times
+322. 'hài'  - 65 times
+323. 'dù'  - 64 times
+324. 'chán'  - 64 times
+325. 'tụi'  - 64 times
+326. 'thu'  - 64 times
+327. 'đôi'  - 63 times
+328. 'kể'  - 63 times
+329. 'tập'  - 63 times
+330. 'dị'  - 63 times
+331. 'nhạc'  - 62 times
+332. 'hát'  - 62 times
+333. 'may'  - 62 times
+334. 'mặc'  - 62 times
+335. 'giáo'  - 62 times
+336. 'ủa'  - 62 times
+337. 'lỗi'  - 62 times
+338. 'gần'  - 61 times
+339. 'cực'  - 61 times
+340. 'nấu'  - 61 times
+341. 'sớm'  - 61 times
+342. 'xử'  - 61 times
+343. 'sức'  - 61 times
+344. 'chi'  - 61 times
+345. 'vẻ'  - 61 times
+346. 'cây'  - 61 times
+347. 'mắc'  - 61 times
+348. '5'  - 61 times
+349. 'mệt'  - 60 times
+350. 'trả'  - 60 times
+351. 'cưng'  - 60 times
+352. 'chất'  - 60 times
+353. 'thú'  - 60 times
+354. '10'  - 60 times
+355. 'án'  - 60 times
+356. 'minh'  - 59 times
+357. 'đại'  - 59 times
+358. 'lun'  - 59 times
+359. 'mưa'  - 59 times
+360. 'giả'  - 58 times
+361. 'ước'  - 58 times
+362. 'hồn'  - 58 times
+363. 'luật'  - 58 times
+364. 'mơ'  - 58 times
+365. 'cầu'  - 57 times
+366. 'ngờ'  - 57 times
+367. 'viên'  - 57 times
+368. 'cắt'  - 57 times
+369. 'bả'  - 56 times
+370. 'tiếp'  - 56 times
+371. 'đm'  - 56 times
+372. 'tiếc'  - 56 times
+373. 'đơn'  - 56 times
+374. 'rưng'  - 56 times
+375. 'thay'  - 56 times
+376. 'ghét'  - 56 times
+377. 'số'  - 56 times
+378. 'thua'  - 55 times
+379. 'tất'  - 55 times
+380. 'pháp'  - 55 times
+381. 'hiểm'  - 55 times
+382. 'xã'  - 54 times
+383. 'tóc'  - 54 times
+384. 'đêm'  - 54 times
+385. 'hãy'  - 54 times
+386. 'đạo'  - 53 times
+387. 'vọng'  - 53 times
+388. 'mồm'  - 53 times
+389. 'bệnh'  - 53 times
+390. 'ít'  - 53 times
+391. 'đỗ'  - 53 times
+392. 'dùng'  - 53 times
+393. 'liên'  - 53 times
+394. 'tr'  - 53 times
+395. 'mở'  - 52 times
+396. 'áp'  - 52 times
+397. 'đăng'  - 52 times
+398. 'uống'  - 52 times
+399. 'thơ'  - 52 times
+400. 'dụng'  - 51 times
+401. 'kêu'  - 51 times
+402. 'trái'  - 51 times
+403. 'khốn'  - 51 times
+404. 'i'  - 51 times
+405. 'lo'  - 50 times
+406. 'độ'  - 50 times
+407. 'sĩ'  - 50 times
+408. 'vàng'  - 50 times
+409. 'dậy'  - 50 times
+410. 'già'  - 50 times
+411. 'áo'  - 50 times
+412. 'viết'  - 50 times
+413. 'nhẹ'  - 50 times
+414. 'gây'  - 50 times
+415. 'rơi'  - 50 times
+416. 'kkk' [REPEAT] - 37 times
+417. 'kkkk' [REPEAT] - 22 times
+418. 'ơiiii' [REPEAT] - 8 times
+419. 'kkkkk' [REPEAT] - 6 times
+420. '1000' [REPEAT] - 5 times
+421. 'quáaaa' [REPEAT] - 4 times
+422. 'haizzz' [REPEAT] - 4 times
+423. 'ơiii' [REPEAT] - 3 times
+424. 'nhaaa' [REPEAT] - 3 times
+425. 'rồiii' [REPEAT] - 3 times
+426. 'luônnn' [REPEAT] - 2 times
+427. 'vlll' [REPEAT] - 2 times
+428. 'điênnn' [REPEAT] - 2 times
+429. 'điiiii' [REPEAT] - 2 times
+430. 'hiccc' [REPEAT] - 2 times
+431. 'haizzzz' [REPEAT] - 2 times
+432. 'tôiii' [REPEAT] - 2 times
+433. 'xxx' [REPEAT] - 2 times
+434. 'hahaaa' [REPEAT] - 2 times
+435. 'quáaaaaa' [REPEAT] - 2 times
+436. 'kkkkkk' [REPEAT] - 2 times
+437. 'nàyyy' [REPEAT] - 2 times
+438. 'vãiii' [REPEAT] - 2 times
+439. 'oiiiii' [REPEAT] - 2 times
+440. 'taoooo' [REPEAT] - 2 times
+441. 'vậyyyy' [REPEAT] - 2 times
+442. 'saooo' [REPEAT] - 2 times
+443. 'nhaaaa' [REPEAT] - 2 times
+444. 'thôiiii' [REPEAT] - 2 times
+445. 'lozzzz' [REPEAT] - 1 times
+446. 'dạyyyy' [REPEAT] - 1 times
+447. 'lênnnnn' [REPEAT] - 1 times
+448. 'suyyyy' [REPEAT] - 1 times
+449. 'otokkeeee' [REPEAT] - 1 times
+450. 'đâyyyyy' [REPEAT] - 1 times
+451. 'giáaaa' [REPEAT] - 1 times
+452. 'neee' [REPEAT] - 1 times
+453. 'dcmmm' [REPEAT] - 1 times
+454. 'ròiiii' [REPEAT] - 1 times
+455. 'màaaaa' [REPEAT] - 1 times
+456. 'lunnnnnnnn' [REPEAT] - 1 times
+457. 'àaaaa' [REPEAT] - 1 times
+458. 'cheee' [REPEAT] - 1 times
+459. 'đúiiiiiii' [REPEAT] - 1 times
+460. 'vuiiiii' [REPEAT] - 1 times
+461. 'mìnnn' [REPEAT] - 1 times
+462. 'heee' [REPEAT] - 1 times
+463. 'aaaaa' [REPEAT] - 1 times
+464. 'aaaaaaa' [REPEAT] - 1 times
+465. 'ơnnnn' [REPEAT] - 1 times
+466. 'ạaaa' [REPEAT] - 1 times
+467. 'nhaaaaaa' [REPEAT] - 1 times
+468. 'toiiii' [REPEAT] - 1 times
+469. 'dmmm' [REPEAT] - 1 times
+470. 'cayyyyyyy' [REPEAT] - 1 times
+471. 'màaaa' [REPEAT] - 1 times
+472. 'híccc' [REPEAT] - 1 times
+473. 'pccc' [REPEAT] - 1 times
+474. 'đmaaaa' [REPEAT] - 1 times
+475. 'hếtttt' [REPEAT] - 1 times
+476. 'yoloooo' [REPEAT] - 1 times
+477. 'clmmmm' [REPEAT] - 1 times
+478. 'êiiii' [REPEAT] - 1 times
+479. 'traiiii' [REPEAT] - 1 times
+480. 'thươnggg' [REPEAT] - 1 times
+481. 'kkkkkkkk' [REPEAT] - 1 times
+482. 'tuiii' [REPEAT] - 1 times
+483. 'nổiiiii' [REPEAT] - 1 times
+484. 'rùiii' [REPEAT] - 1 times
+485. 'hayyy' [REPEAT] - 1 times
+486. 'lắmmmm' [REPEAT] - 1 times
+487. 'điênggg' [REPEAT] - 1 times
+488. 'bâyyy' [REPEAT] - 1 times
+489. 'diaaaaa' [REPEAT] - 1 times
+490. 'timmmmm' [REPEAT] - 1 times
+491. 'vlllll' [REPEAT] - 1 times
+492. 'ưiiiiiiii' [REPEAT] - 1 times
+493. 'nữaaaaaaaa' [REPEAT] - 1 times
+494. 'ôiii' [REPEAT] - 1 times
+495. 'trờiiiiii' [REPEAT] - 1 times
+496. 'cayyyyy' [REPEAT] - 1 times
+497. 'zzzzzz' [REPEAT] - 1 times
+498. 'cayyy' [REPEAT] - 1 times
+499. 'canhhh' [REPEAT] - 1 times
+500. 'awwww' [REPEAT] - 1 times
+501. 'cưcccc' [REPEAT] - 1 times
+502. 'luônnnn' [REPEAT] - 1 times
+503. 'moreeeee' [REPEAT] - 1 times
+504. 'pleaseeee' [REPEAT] - 1 times
+505. 'nooo' [REPEAT] - 1 times
+506. 'đmmmmm' [REPEAT] - 1 times
+507. 'oiii' [REPEAT] - 1 times
+508. 'đcmmmmmmm' [REPEAT] - 1 times
+509. 'lắmmmmm' [REPEAT] - 1 times
+510. 'ơiiiiiiiiiii' [REPEAT] - 1 times
+511. 'vãiiii' [REPEAT] - 1 times
+512. '3000' [REPEAT] - 1 times
+513. '5000' [REPEAT] - 1 times
+514. 'vớiiiiii' [REPEAT] - 1 times
+515. 'ưiiii' [REPEAT] - 1 times
+516. 'uiii' [REPEAT] - 1 times
+517. 'rồiiiiiiiiii' [REPEAT] - 1 times
+518. 'taooo' [REPEAT] - 1 times
+519. 'đấyyyy' [REPEAT] - 1 times
+520. 'caooooo' [REPEAT] - 1 times
+521. 'uiiiii' [REPEAT] - 1 times
+522. 'pheee' [REPEAT] - 1 times
+523. 'aiii' [REPEAT] - 1 times
+524. 'immm' [REPEAT] - 1 times
+525. 'hiềnnn' [REPEAT] - 1 times
+526. 'lunnn' [REPEAT] - 1 times
+527. 'rồiiiii' [REPEAT] - 1 times
+528. 'khonggg' [REPEAT] - 1 times
+529. 'xanhhhh' [REPEAT] - 1 times
+530. 'đấyyyyy' [REPEAT] - 1 times
+531. 'trờiiii' [REPEAT] - 1 times
+532. 'chayyyy' [REPEAT] - 1 times
+533. 'hjjjj' [REPEAT] - 1 times
+534. '2000' [REPEAT] - 1 times
+535. 'nhaaaaaaaa' [REPEAT] - 1 times
+536. 'haizaaa' [REPEAT] - 1 times
+537. 'ewww' [REPEAT] - 1 times
+538. 'aaaa' [REPEAT] - 1 times
+539. 'weeee' [REPEAT] - 1 times
+540. 'khiếppp' [REPEAT] - 1 times
+541. 'đâyyy' [REPEAT] - 1 times
+542. 'màaaaaaa' [REPEAT] - 1 times
+543. 'hiếmkkk' [REPEAT] - 1 times
+544. 'vclllll' [REPEAT] - 1 times
+545. 'hayyyy' [REPEAT] - 1 times
+546. 'saoooo' [REPEAT] - 1 times
+547. 'nồoooooo' [REPEAT] - 1 times
+548. 'ghêeeee' [REPEAT] - 1 times
+549. 'quáaaaa' [REPEAT] - 1 times
+550. 'haaaaa' [REPEAT] - 1 times
+551. 'bênnn' [REPEAT] - 1 times
+552. 'dạaaaaaa' [REPEAT] - 1 times
+553. 'ngườiiiiiiiiiiii' [REPEAT] - 1 times
+554. 'assssssss' [REPEAT] - 1 times
+555. 'tayyy' [REPEAT] - 1 times
+556. 'troiii' [REPEAT] - 1 times
+557. 'chịuuuuuuu' [REPEAT] - 1 times
+558. 'khachhh' [REPEAT] - 1 times
+559. 'hahaaaa' [REPEAT] - 1 times
+560. 'lếuuuuuu' [REPEAT] - 1 times
+561. 'cocaaa' [REPEAT] - 1 times
+562. 'quéeeee' [REPEAT] - 1 times
+563. 'phụccccccc' [REPEAT] - 1 times
+564. 'nàooooo' [REPEAT] - 1 times
+565. 'điiii' [REPEAT] - 1 times
+566. 'yyy' [REPEAT] - 1 times
+567. 'chờiiiii' [REPEAT] - 1 times
+568. 'chaiii' [REPEAT] - 1 times
+569. 'hmmmmmmm' [REPEAT] - 1 times
+570. 'vluuu' [REPEAT] - 1 times
+571. 'ghéttttt' [REPEAT] - 1 times
+572. 'chaaaaa' [REPEAT] - 1 times
+573. '99999' [REPEAT] - 1 times
+574. 'àaaas' [REPEAT] - 1 times
+575. 'haaa' [REPEAT] - 1 times
+576. 'vclll' [REPEAT] - 1 times
+577. 'điii' [REPEAT] - 1 times
+578. 'ngooo' [REPEAT] - 1 times
+579. 'waooooo' [REPEAT] - 1 times
+580. 'okeeee' [REPEAT] - 1 times
+581. 'kkkkklk' [REPEAT] - 1 times
+582. 'vãiiiiii' [REPEAT] - 1 times
+583. 'shaooo' [REPEAT] - 1 times
+584. 'tuiiiiiiiiii' [REPEAT] - 1 times
+585. 'huhuuu' [REPEAT] - 1 times
+586. 'hhhhhhhhhhhhhhhhhhhhhhh' [REPEAT] - 1 times
+587. 'vậyyyyy' [REPEAT] - 1 times
+588. 'lònnnnnnn' [REPEAT] - 1 times
+589. 'disss' [REPEAT] - 1 times
+590. 'shopppp' [REPEAT] - 1 times
+591. 'emmmm' [REPEAT] - 1 times
+592. 'vcllll' [REPEAT] - 1 times
+593. 'queee' [REPEAT] - 1 times
+594. 'lozzz' [REPEAT] - 1 times
+595. 'cerrrr' [REPEAT] - 1 times
+596. '333' [REPEAT] - 1 times
+597. 'vớiiiii' [REPEAT] - 1 times
+598. 'taaa' [REPEAT] - 1 times
+599. 'saiii' [REPEAT] - 1 times
+600. 'nhéeeeeee' [REPEAT] - 1 times
+601. 'aaa' [REPEAT] - 1 times
+602. 'noooooo' [REPEAT] - 1 times
+603. '33333' [REPEAT] - 1 times
+604. 'gácccccc' [REPEAT] - 1 times
+605. 'đmmmmmm' [REPEAT] - 1 times
+
+
+MISSING EMOTICONS
+--------------------------------------------------------------------------------
+  1. '=)))' - 93 times
+  2. ':v' - 91 times
+  3. ':))))' - 71 times
+  4. '=))))' - 65 times
+  5. '=)))))' - 32 times
+  6. ':)))))' - 23 times
+  7. '=))))))' - 18 times
+  8. ':))))))' - 13 times
+  9. ':((((' - 10 times
+ 10. '=]' - 9 times
+ 11. ':)))))))' - 6 times
+ 12. '=)))))))' - 6 times
+ 13. '=))))))))' - 5 times
+ 14. ';)))' - 4 times
+ 15. '=)))))))))))' - 4 times
+ 16. '=)))))))))' - 4 times
+ 17. '=))))))))))))))' - 3 times
+ 18. ':)))))))))))' - 2 times
+ 19. '=))))))))))))' - 2 times
+ 20. ':(((((' - 2 times
+ 21. '=)))))))))))))' - 2 times
+ 22. ':]' - 1 times
+ 23. ':))))))))' - 1 times
+ 24. ':((((((' - 1 times
+ 25. '=)))))))))))))))))))))))))))))))))))))))' - 1 times
+ 26. '>.<' - 1 times
+ 27. ';))))))' - 1 times
+ 28. ';))))' - 1 times

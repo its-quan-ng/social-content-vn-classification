@@ -1,0 +1,38 @@
+Preprocessing Statistics
+============================================================
+Date: 2025-10-31 02:56:13
+Input file: data\raw\test.csv
+Output file: data\processed\test.csv
+
+Original data:
+  Total rows: 693
+
+Processed data:
+  Total rows: 682
+  Filtered: 11 rows
+  Retention rate: 98.41%
+
+Label distribution:
+  Enjoyment: 188 (27.6%)
+  Other: 129 (18.9%)
+  Disgust: 128 (18.8%)
+  Sadness: 115 (16.9%)
+  Fear: 46 (6.7%)
+  Anger: 40 (5.9%)
+  Surprise: 36 (5.3%)
+
+Word count statistics:
+  Mean: 12.92
+  Median: 11
+  Std: 8.37
+  Min: 3
+  Max: 63
+
+Pipeline configuration:
+  word_segmentation: True
+  segmentation_method: pyvi
+  min_word_count: 3
+  lowercase: True
+  slang_dict_size: 213
+  emoji_dict_size: 181
+  emoticon_dict_size: 52

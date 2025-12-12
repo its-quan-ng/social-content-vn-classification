@@ -1,0 +1,38 @@
+Preprocessing Statistics
+============================================================
+Date: 2025-10-31 03:13:33
+Input file: data\raw\test.csv
+Output file: data\processed_vncorenlp\test.csv
+
+Original data:
+  Total rows: 693
+
+Processed data:
+  Total rows: 683
+  Filtered: 10 rows
+  Retention rate: 98.56%
+
+Label distribution:
+  Enjoyment: 189 (27.7%)
+  Other: 129 (18.9%)
+  Disgust: 128 (18.7%)
+  Sadness: 115 (16.8%)
+  Fear: 46 (6.7%)
+  Anger: 40 (5.9%)
+  Surprise: 36 (5.3%)
+
+Word count statistics:
+  Mean: 12.79
+  Median: 11
+  Std: 8.34
+  Min: 3
+  Max: 62
+
+Pipeline configuration:
+  word_segmentation: True
+  segmentation_method: vncorenlp
+  min_word_count: 3
+  lowercase: True
+  slang_dict_size: 213
+  emoji_dict_size: 181
+  emoticon_dict_size: 52
